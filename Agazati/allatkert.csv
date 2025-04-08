@@ -1,0 +1,49 @@
+Állat neve,Típusa,Létszáma,Étel típusa,Napi fogyasztott mennyiség kg
+Cica,Emlős,10,Hús,0.5
+Kutya,Emlős,8,Hús,1.2
+Nyúl,Emlős,12,Zöldnövény,0.6
+Kecske,Emlős,5,Mag,0.3
+Tehén,Emlős,15,Táp,4
+Ló,Emlős,3,Zöldnövény,1.5
+Mókus,Emlős,20,Mag,0.2
+Törpesün,Emlős,4,Hús,0.1
+Házinyúl,Emlős,6,Zöldnövény,0.4
+Papagáj,Madár,15,Mag,0.3
+Kanári,Madár,50,Mag,0.2
+Páva,Madár,3,Zöldnövény,0.6
+Sirály,Madár,25,Hús,0.4
+Rózsás füzike,Madár,10,Mag,0.1
+Holló,Madár,8,Táp,0.5
+Hegyvidéki fácán,Madár,12,Zöldnövény,0.4
+Pelikán,Madár,4,Hús,1.2
+Kakadu,Madár,6,Mag,0.3
+Tollas páva,Madár,5,Zöldnövény,0.6
+Tengerimalac,Emlős,10,Táp,2
+Anaconda,Hüllő,2,Hús,1.6
+Kígyó,Hüllő,5,Hús,1.2
+Iguána,Hüllő,3,Zöldnövény,1
+Tengeri teknős,Hüllő,1,Mag,0.8
+Kecskebéka,Emlős,8,Mag,0.3
+Gyík,Hüllő,7,Táp,2
+Pávatollas kígyó,Hüllő,2,Hús,1.2
+Borz,Emlős,4,Hús,1.8
+Cédrus szalamandra,Hüllő,10,Táp,3
+Hód,Emlős,3,Zöldnövény,1.5
+Kangúr,Emlős,5,Mag,0.4
+Szalamandra,Hüllő,1,Táp,2
+Kék gödény,Madár,6,Hús,1.2
+Harkály,Madár,8,Zöldnövény,0.6
+Fecske,Madár,20,Mag,0.3
+Becskék,Madár,30,Táp,4
+Zöld gyík,Hüllő,10,Hús,1.5
+Gyümölcsbogyós kígyó,Hüllő,1,Zöldnövény,1
+Sárkánygyík,Hüllő,4,Mag,0.3
+Albínó gekkó,Hüllő,3,Táp,2.5
+Vöröskés gyík,Hüllő,2,Hús,1.2
+Kígyóhátú iguána,Hüllő,5,Zöldnövény,1.5
+Dél-amerikai boa,Hüllő,1,Mag,0.8
+Kiskutyák,Emlős,8,Táp,3
+Madárfiú,Madár,3,Zöldnövény,0.6
+Zöld fácán,Madár,5,Mag,0.3
+Rókák,Emlős,7,Hús,2
+Mókusmajom,Emlős,3,Zöldnövény,1.5
