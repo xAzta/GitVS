@@ -1,0 +1,14 @@
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\bin\Debug\net8.0\Kezdetek.exe
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\bin\Debug\net8.0\Kezdetek.deps.json
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\bin\Debug\net8.0\Kezdetek.runtimeconfig.json
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\bin\Debug\net8.0\Kezdetek.dll
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\bin\Debug\net8.0\Kezdetek.pdb
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\Kezdetek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\Kezdetek.AssemblyInfoInputs.cache
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\Kezdetek.AssemblyInfo.cs
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\Kezdetek.csproj.CoreCompileInputs.cache
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\Kezdetek.dll
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\refint\Kezdetek.dll
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\Kezdetek.pdb
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\Kezdetek.genruntimeconfig.cache
+C:\Users\Diak\GitVS\Kezdeteksolution\Kezdetek\obj\Debug\net8.0\ref\Kezdetek.dll
