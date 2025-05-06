@@ -1,0 +1,14 @@
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\bin\Debug\net8.0\Akasztofa.exe
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\bin\Debug\net8.0\Akasztofa.deps.json
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\bin\Debug\net8.0\Akasztofa.runtimeconfig.json
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\bin\Debug\net8.0\Akasztofa.dll
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\bin\Debug\net8.0\Akasztofa.pdb
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\Akasztofa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\Akasztofa.AssemblyInfoInputs.cache
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\Akasztofa.AssemblyInfo.cs
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\Akasztofa.csproj.CoreCompileInputs.cache
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\Akasztofa.dll
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\refint\Akasztofa.dll
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\Akasztofa.pdb
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\Akasztofa.genruntimeconfig.cache
+C:\Users\Diak\GitVS\Akasztofa\Akasztofa\obj\Debug\net8.0\ref\Akasztofa.dll

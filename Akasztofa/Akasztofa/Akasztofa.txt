@@ -1,0 +1,22 @@
+Program Akasztófa
+	Karakter[] Kitalalt="******", Kitalalando ="Almafa"
+	
+	Ciklus indul
+		Karakter Tipp
+		Ki: "Tippelj egy betűt: "
+		Be: Tipp
+		Karakter[] ujKitalalt
+		Ciklus (Szám i=() ; i<Kitalalando.Hossz; i++){
+			
+			Ha(Kitalalando[i]==Tipp){
+				ujKitalalt+=Tipp
+			}
+			ellenben{
+				ujKitalalt[i] = Kitalalando[i]
+			}
+		}	
+		Kitalalt=ujKitalalt
+		Ki:Kitalalt
+	Ciklus fut ha (Kitalalando != Kitalalt)
+
+Program vége
